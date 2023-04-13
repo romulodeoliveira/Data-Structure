@@ -1,6 +1,6 @@
 # Data Structure 🎲
 
-Segue abaixo as 10 estruturas de dados mais importantes e duas referências para cada uma delas:
+Segue abaixo as 10 estruturas de dados mais importantes e pelo menos duas referências para cada uma delas:
 
 ---
 
@@ -14,7 +14,9 @@ Uma coleção de elementos do mesmo tipo de dados, organizados em uma sequência
 >
 > WIKIPEDIA. Array data structure. Disponível em: https://en.wikipedia.org/wiki/Array_data_structure. Acesso em: 11 abr. 2023.
 >
-> Cormen, T. H. et al. Introduction to Algorithms. 3rd ed. The MIT Press, 2009.
+> TUTORIALSPOINT. C# - Arrays. Disponível em: https://www.tutorialspoint.com/csharp/csharp_arrays.htm. Acesso em: 11 abr. 2023.
+>
+> DOTNETPERLS. C# Array Examples. Disponível em: https://www.dotnetperls.com/array. Acesso em: 11 abr. 2023.
 
 ---
 
