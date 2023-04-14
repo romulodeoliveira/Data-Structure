@@ -87,7 +87,7 @@ Quando se cria um array, o compilador C# inicializa implicitamente cada elemento
 
 Um elemento é acessado pela indexação do nome do array. Isso é feito colocando o índice do elemento entre cochetes após o nome do array.
 
-Por exemplo:
+[Por exemplo:](https://github.com/romulodeoliveira/Data-Structure/blob/main/code/01-Arrays/Exemple01/Program.cs)
 
 ```C#
 double salary = balance[9];
