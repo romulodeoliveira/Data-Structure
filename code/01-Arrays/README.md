@@ -84,3 +84,15 @@ int[] score = marks;
 Quando se cria um array, o compilador C# inicializa implicitamente cada elemento da matriz com um valor padrão, dependendo do tipo de array. Por exemplo, para um array int todos os elementos são inicializados com 0.
 
 ## Acessando elementos do Array
+
+Um elemento é acessado pela indexação do nome do array. Isso é feito colocando o índice do elemento entre cochetes após o nome do array.
+
+Por exemplo:
+
+```C#
+double salary = balance[9];
+```
+
+![source code](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img01.png)
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img02.png)
