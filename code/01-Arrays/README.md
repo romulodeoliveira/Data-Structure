@@ -93,6 +93,14 @@ Um elemento é acessado pela indexação do nome do array. Isso é feito colocan
 double salary = balance[9];
 ```
 
+<div align="center">
+
 ![source code](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img01.png)
 
+</div>
+
+<div align="center">
+
 ![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img02.png)
+
+</div>
