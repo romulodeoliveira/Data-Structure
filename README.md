@@ -4,9 +4,9 @@ Segue abaixo as 10 estruturas de dados mais importantes e pelo menos duas refer�
 
 ---
 
-## Arrays:
+## [Arrays](https://github.com/romulodeoliveira/Data-Structure/tree/main/code/01-Arrays):
 
-Uma coleção de elementos do mesmo tipo de dados, organizados em uma sequência indexada. Os elementos podem ser acessados através de um índice numérico.
+Uma coleção de elementos do mesmo tipo de dados, organizados em uma sequência indexada. Os elementos podem ser acessados através de um índice numérico. [Veja mais](https://github.com/romulodeoliveira/Data-Structure/tree/main/code/01-Arrays).
 
 > Referências:
 >
