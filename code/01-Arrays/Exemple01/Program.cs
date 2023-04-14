@@ -13,11 +13,13 @@ namespace Exemple01
             {
                 n[i] = i + 1;
             }
+            // Inicializa os elementos do array n
 
             for (int j = 0; j < 10; j++)
             {
                 System.Console.WriteLine($"Elemento[{j + 1}] = {n[j]}");
             }
+            // Printa os elementos do array na tela
         }
     }
 }
