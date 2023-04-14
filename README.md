@@ -30,7 +30,7 @@ Uma sequência de elementos, onde cada elemento contém um ponteiro para o próx
 >
 > WIKIPEDIA. Linked list. Disponível em: https://en.wikipedia.org/wiki/Linked_list. Acesso em: 11 abr. 2023.
 >
-> Goodrich, M. T.; Tamassia, R. W.; Goldwasser, M. H. Data Structures and Algorithms in Java. 6th ed. Wiley, 2014.
+> DOTNETPERLS. C# LinkedList Examples. Disponível em: https://www.dotnetperls.com/linkedlist. Acesso em: 13 abr. 2023.
 
 ---
 
