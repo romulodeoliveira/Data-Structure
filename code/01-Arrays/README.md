@@ -104,3 +104,59 @@ double salary = balance[9];
 ![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img02.png)
 
 </div>
+
+---
+
+# Arrays C#
+
+Outros conceitos importantes relacionados a array que devem ser claros para um programador C#:
+
+---
+
+## C# - Arrays Multidimensionais
+
+C# permite arrays multidimensionais. Esses também são chamados de arrays retangulares. O exemplo a seguir representa uma forma de declarar um array bidimensional de string:
+
+```C#
+string [,] names;
+```
+
+Ou um array tridimensional de variáveis `int` como:
+
+```C#
+int [ , , ] m;
+```
+
+### Arrays Bidimensionais
+
+A forma mais simples de um array multidimensional é um array bidimensional. Um array bidimensional é uma lista de arrays unidimensionais.
+
+Um array bidimensional pode ser considerado uma tabela que possui x números de linhas e y números de colunas.
+
+Dessa forma, cada elemento é identificado por um nome de elemento `exemplo[a, b]` onde `exemplo` é o nome da matriz e `a` e `b` são os subscritos que identificam exclusivamente cada elemento do array.
+
+### Inicializando e Acessando Arrays Bidimensionais
+
+Arrays multidimensionais podem ser inicializadas especificando valores (como também podem ser inicializados sem especificar tais valores) entre colchetes para cada linha e um elemento pode ser acessado usando os índices de linha e coluna. Podemos observar nos dois exemplos a seguir:
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img03.png)
+
+</div>
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img04.png)
+
+</div>
+
+E abaixo o resultado do código:
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img05.png)
+
+</div>
+
+---
