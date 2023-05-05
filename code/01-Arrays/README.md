@@ -160,3 +160,90 @@ E abaixo o resultado do código:
 </div>
 
 ---
+
+## C# - Arrays Irregulares
+
+Arrays irregulares (ou [denteada](https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/arrays/jagged-arrays), ou ainda Jagged) são arrays de arrays. Uma matriz cujo os elementos são outras matrizes.
+
+Os arrays irregulares podem ser inicializados da seguinte forma:
+
+```c#
+string[][] frutas = new string[3][];
+```
+
+Mas antes de usá-los, devemos sempre inicializá-los. E isso fazemos da seguinte forma:
+
+```c#
+frutas[0] = new string[6];
+frutas[1] = new string[4];
+frutas[2] = new string[2];
+```
+
+Também é possível usar os inicializadores para preencher os elementos matriz com valores. Nesse caso não é necessário informar o tamanho da matriz:
+
+```c#
+frutas[0] = new string[] { "Maçã", "Banana", "Laranja", "Abacaxi", "Morango", "Uva" };
+frutas[1] = new string[] { "Manga", "Limão", "Pera", "Melancia" };
+frutas[2] = new string[] { "Kiwi", "Cereja" };
+```
+
+Também é possível inicializar a matriz mediante uma declaração como esta:
+
+```c#
+string[][] frutas = new string[3][]
+{
+    new string[] { "Maçã", "Banana", "Laranja", "Abacaxi", "Morango", "Uva" },
+    new string[] { "Manga", "Limão", "Pera", "Melancia" },
+    new string[] { "Kiwi", "Cereja" }
+};
+```
+
+É possível ainda usar a seguinte forma abreviada. Observe que não é possível omitir o operador `new` da inicialização de elementos, porque não há nenhuma inicialização padrão para os elementos:
+
+```c#
+string[][] frutas =
+{
+    new string[] { "Maçã", "Banana", "Laranja", "Abacaxi", "Morango", "Uva" },
+    new string[] { "Manga", "Limão", "Pera", "Melancia" },
+    new string[] { "Kiwi", "Cereja" }
+};
+```
+
+É possível acessar elementos de matrizes individuais como estes exemplos:
+
+```c#
+System.Console.WriteLine(frutas[1][0]); // Output: Manga
+```
+
+É possível misturar matrizes irregulares e multidimensionais. A seguir, há uma declaração e inicialização de uma matriz denteada unidimensional que contém três elementos de matriz bidimensional de tamanhos diferentes:
+
+```c#
+string[][,] frutas = new string[3][,]
+{
+    new string[,] { {"Maçã", "Banana", "Laranja"}, {"Abacaxi", "Morango", "Uva"}, {"Mamão", "Maracujá", "Tangerina"} },
+    new string[,] { {"Manga", "Limão"}, {"Pera", "Melancia"}, {"Jaca", "Pitaya"} },
+    new string[,] { {"Kiwi", "Cereja"}, {"Caqui", "Framboesa"} }
+};
+```
+
+De forma similar ao que foi mostrado anteriormente, é possível acessar da seguinte forma:
+
+```c#
+System.Console.WriteLine(frutas[1][0, 0]); // Output: Manga
+```
+
+### Exemplo:
+
+Este exemplo cria um array cujos elementos são arrays. Cada um dos elementos do array tem um tamanho diferente.
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img06.png)
+
+</div>
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img07.png)
+
+</div>
