@@ -17,6 +17,8 @@ Uma coleção de elementos do mesmo tipo de dados, organizados em uma sequência
 > TUTORIALSPOINT. C# - Arrays. Disponível em: https://www.tutorialspoint.com/csharp/csharp_arrays.htm. Acesso em: 11 abr. 2023.
 >
 > DOTNETPERLS. C# Array Examples. Disponível em: https://www.dotnetperls.com/array. Acesso em: 11 abr. 2023.
+>
+> MICROSOFT. Matrizes denteadas (Guia de Programação em C#). Disponível em: https://learn.microsoft.com/pt-br/dotnet/csharp/programming-guide/arrays/jagged-arrays. Acesso em 05 maio de 2023.
 
 ---
 
