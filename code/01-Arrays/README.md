@@ -247,3 +247,21 @@ Este exemplo cria um array cujos elementos são arrays. Cada um dos elementos do
 ![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img07.png)
 
 </div>
+
+---
+
+## C# - Passando Arrays como Argumentos de Função
+
+Você pode passar uma matriz como um argumento de função em C#. O exemplo a seguir demonstra isso:
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img08.png)
+
+</div>
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img09.png)
+
+</div>
