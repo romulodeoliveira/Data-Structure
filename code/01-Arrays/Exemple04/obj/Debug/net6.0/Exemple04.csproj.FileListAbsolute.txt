@@ -1,0 +1,15 @@
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.csproj.AssemblyReference.cache
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.GeneratedMSBuildEditorConfig.editorconfig
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.AssemblyInfoInputs.cache
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.AssemblyInfo.cs
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.csproj.CoreCompileInputs.cache
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/bin/Debug/net6.0/Exemple04
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/bin/Debug/net6.0/Exemple04.deps.json
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/bin/Debug/net6.0/Exemple04.runtimeconfig.json
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/bin/Debug/net6.0/Exemple04.dll
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/bin/Debug/net6.0/ref/Exemple04.dll
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/bin/Debug/net6.0/Exemple04.pdb
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.dll
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/ref/Exemple04.dll
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.pdb
+/home/romulo/.programming/c#/DataStructure/code/01-Arrays/Exemple04/obj/Debug/net6.0/Exemple04.genruntimeconfig.cache
