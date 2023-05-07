@@ -265,3 +265,21 @@ Você pode passar uma matriz como um argumento de função em C#. O exemplo a se
 ![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img09.png)
 
 </div>
+
+---
+
+## C# - Passando Arrays como Argumentos de Função
+
+Às vezes, ao declarar um método, não temos certeza do número de argumentos passados ​​como parâmetro. Arrays de parâmetros C# são úteis nesses momentos.
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img10.png)
+
+</div>
+
+<div align="center">
+
+![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img11.png)
+
+</div>
