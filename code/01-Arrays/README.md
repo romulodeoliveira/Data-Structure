@@ -283,3 +283,42 @@ Você pode passar uma matriz como um argumento de função em C#. O exemplo a se
 ![output](https://github.com/romulodeoliveira/Data-Structure/blob/main/img/01-Array/img11.png)
 
 </div>
+
+---
+
+## C# - Classe Array
+
+### Propriedades:
+
+Estes são apenas alguns exemplos dos métodos disponíveis na classe Array. Existem outros métodos para trabalhar com arrays multidimensionais, realizar pesquisas, filtrar elementos, entre outros.
+
+| Nome           | Descrição                                                                |
+| -------------- | ------------------------------------------------------------------------ |
+| Length         | Retorna o número total de elementos no array.                            |
+| Rank           | Retorna a dimensão do array.                                             |
+| IsFixedSize    | Indica se o array tem um tamanho fixo.                                   |
+| IsReadOnly     | Indica se o array é somente leitura.                                     |
+| IsSynchronized | Indica se o acesso ao array é sincronizado (thread-safe).                |
+| SyncRoot       | Retorna um objeto que pode ser usado para sincronizar o acesso ao array. |
+
+### Métodos:
+
+Estes são apenas alguns exemplos de métodos da classe Array. Existem muitos outros métodos disponíveis para realizar operações de filtragem, projeção, agregação, entre outros.
+
+| Nome                                 | Descrição                                                                                 |
+| ------------------------------------ | ----------------------------------------------------------------------------------------- |
+| GetValue(int index)                  | Retorna o valor do elemento no índice especificado.                                       |
+| SetValue(object value, int index)    | Define o valor do elemento no índice especificado.                                        |
+| Length                               | Retorna o número total de elementos no array.                                             |
+| CopyTo(Array array, int index)       | Copia os elementos do array para outro array, a partir do índice especificado.            |
+| Clone()                              | Cria uma cópia superficial do array.                                                      |
+| Sort()                               | Ordena os elementos do array em ordem crescente.                                          |
+| Reverse()                            | Inverte a ordem dos elementos no array.                                                   |
+| IndexOf(object value)                | Retorna o índice da primeira ocorrência do valor especificado no array.                   |
+| LastIndexOf(object value)            | Retorna o índice da última ocorrência do valor especificado no array.                     |
+| Contains(object value)               | Verifica se o array contém o valor especificado.                                          |
+| Clear()                              | Remove todos os elementos do array, definindo-os como o valor padrão do tipo de elemento. |
+| Concat(Array array)                  | Concatena dois arrays.                                                                    |
+| Copy(Array array, int index)         | Copia os elementos do array para outro array, a partir do índice especificado.            |
+| GetLength(int dimension)             | Retorna o número de elementos em uma dimensão específica do array multidimensional.       |
+| Resize(ref Array array, int newSize) | Redimensiona o array para o novo tamanho especificado.                                    |
